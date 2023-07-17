@@ -857,12 +857,12 @@
 }
 
 .userProfileInnerThemedNonPremium-1gT-zY {
-    background-image: -webkit-radial-gradient(50% 50%, ellipse cover, #22a9bb 0%, #000000 95%);
+    background-image: rgb(57, 57, 57);
 }
 
 .userProfileInnerThemedWithBanner-2624Yx,
 .userProfileInnerThemedPremiumWithoutBanner-1yMS1H {
-    background-image: -webkit-radial-gradient(50% 50%, ellipse cover, #22a9bb 0%, #000000 95%);
+    background-image: rgb(57, 57, 57);
 }
 
 .userProfileOuterThemed-3EfHmv.userPopoutOuter-3AVBmJ, 
